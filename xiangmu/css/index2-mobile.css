@@ -1,0 +1,50 @@
+
+.inner_c {
+    width: 450px;
+    margin: 0 auto;
+}
+.col-sm-6 {
+    width: 460px;
+}
+.container-fluid .navbar-header{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.container1{
+    width: 100%;
+    height: 156px;
+}
+.container1 img{
+    width: 100%;
+    height: 156px;
+}
+.container {
+    width: 450px;
+}
+.row {
+    width: 444px;
+}
+#about-us .right p {
+    font-size: 0.4em;
+}
+/* 快捷 */
+.kj{
+    margin-top: 4px;
+}
+.kj .gz{
+	margin-left: 148px;
+    margin-top: -70px;
+}
+.kj ul li:hover{
+    color: skyblue;
+}
+#footer .container{
+	width: 300px;
+}
+/* 返回顶部 */
+.t-right-bar {
+    bottom: 12%;
+}
+.t-right-bar > div {
+    margin-bottom: 2px;
+}

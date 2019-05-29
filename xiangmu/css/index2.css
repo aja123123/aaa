@@ -1,0 +1,146 @@
+.container1{
+    width: 100%;
+    height: 446px;
+}
+.container1 img{
+    width: 100%;
+    height: 446px;
+}
+div, p, h1, h2, h3, h4, h5, h6, ul, li, ol, table, tr, td, ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.tabs-vertical {
+    font: bold 13px sans-serif;
+}
+/* 内容部分 */
+@media (min-width: 1200px){
+    .container {
+        width: 1170px;
+    }
+}
+@media (min-width: 992px){
+    .container {
+        width: 970px;
+    }
+}
+@media (min-width: 768px){
+    .container {
+        width: 750px;
+    }
+}
+.container {
+    width: 1200px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+/* 走进磅管家 */
+#about-us .left {
+    background-color: #fff;
+}
+#about-us .left h3 {
+    color: #333;
+    font-weight: 600;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+#about-us .left li {
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+}
+.tabs-vertical .left a.tab-active {
+    color: #0075C2;
+}
+.tabs-vertical ul li a {
+    display: block;
+    text-decoration: none;
+    color: #999;
+    padding: 16px 40px 16px 0;
+}
+/* 公司简介 */
+.main-page .left, .main-page .right {
+    float: left;
+}
+.main-page .left {
+    padding: 25px;
+    background-color: #fff;
+}
+@media (min-width: 768px){
+    .col-sm-2 {
+        width: 16.666666666666664%;
+    }
+}
+.tabs-vertical .tabs-content-placeholder {
+    overflow: hidden;
+    font-weight: normal;
+    padding: 20px 40px 45px;
+    margin: 0 auto;
+}
+.tabs-vertical ul {
+    float: left;
+    list-style: none;
+    text-align: left;
+    margin: 0;
+    padding-left: 0;
+}
+/* 公司简介第一个 */
+.tabs-vertical .tabs-content-placeholder div.tab-content-active {
+    display: block;
+}
+.con-ggh{
+    display: none;
+}
+.row {
+    width: 1366px;
+    height: 465px;
+    margin-top: 35px;
+    margin-left: -40px
+}
+/* 第二后的图片 */
+.col-sm-6 {
+    width: 585px;
+    height: 205px;
+    float: left;
+}
+#about-us .right h2 {
+    font-size: 26px;
+    color: #333;
+    margin: 28px 0;
+    font-weight: bold;
+}
+#about-us .con-ggh p {
+    font-size: 16px;
+}
+#about-us .right p {
+    color: #999;
+    font-size: 1.4em;
+}
+.tabs-vertical .tabs-content-placeholder div p {
+    color: #565a5c;
+    line-height: 2;
+    text-align: left;
+    margin: 5px 0 20px;
+}
+.tabs-vertical .tabs-content-placeholder div img {
+    max-width: 100%;
+}
+img {
+    vertical-align: middle;
+}
+/* 第二个 */
+#about-us .right .Idea {
+    margin: 0 0 30px 0;
+}
+#about-us .right .Idea img {
+    width: 100%;
+    height: 100%;
+}
+.tabs-vertical .tabs-content-placeholder div img {
+    max-width: 100%;
+}
+.kj {
+    margin-top: 1px;
+}

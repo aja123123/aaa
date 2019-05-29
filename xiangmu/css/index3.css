@@ -1,0 +1,119 @@
+.container1{
+    width: 100%;
+    height: 446px;
+    overflow: hidden;
+}
+.container1 img{
+    width: 100%;
+    height: 446px;
+}
+/* 产品方案 */
+#portfolio {
+    background-color:white;
+}
+form > section {
+    padding: 38px 0;
+}
+.container {
+    width: 80%;
+    max-width: 1260px;
+    min-width: 335px;
+    margin: 0 auto;
+}
+@media (min-width: 1200px){
+    .container {
+        width: 1170px;
+    }
+}
+@media (min-width: 992px){
+    .container {
+        width: 970px;
+    }
+}
+@media (min-width: 768px){
+    .container {
+    width: 750px;
+}
+.container {
+    width: 1200px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.center {
+    text-align: center;
+    padding-bottom: 55px;
+}
+.fadeInDown {
+    -webkit-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+}
+.solution h6 {
+    margin: 45px 0 28px 0;
+    color: #0075C2;
+    font-size: 16px;
+}
+.solution h2 {
+    font-size: 36px;
+}
+.center h2 {
+    font-size: 36px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+/* row */
+#feature .solve .solve1 {
+    padding: 25px;
+    font-size: 14px;
+    color: #999;
+    /* float: left; */
+    min-height: 260px;
+}
+a {
+    color: #999;
+    -webkit-transition: color 300ms, background-color 300ms;
+    -moz-transition: color 300ms, background-color 300ms;
+    -o-transition: color 300ms, background-color 300ms;
+    transition: color 300ms, background-color 300ms;
+}
+#feature .solve .solve1 .u64 {
+    text-align: left;
+}
+/* 第一个 */
+.col-sm-6 {
+    width: 585px;
+    height: 240px;
+    float: left;
+    /* margin-top: 18px; */
+}
+.u64 {
+    text-align: center;
+    cursor: pointer;
+}
+/* 字体 */
+#feature .solve .solve1 .solve-p1{
+    padding:8px 0 26px 0;
+}
+.u64 {
+    float: left;
+    width: 550px;
+    height: 210px;
+    text-align: center;
+    cursor: pointer;
+    margin-left: -30px;
+}
+.u64 .solve-p1{
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.u64 .p2{
+
+    margin-top: 35px;
+}
+/* 快捷 */
+.kj{
+    margin-top: 95px;
+}

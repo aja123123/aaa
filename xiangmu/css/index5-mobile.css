@@ -1,0 +1,61 @@
+.inner_c {
+    width: 450px;
+    margin: 0 auto;
+}
+.solution h6 {
+	margin: 20px 0 28px 0;
+}
+.col-sm-6 {
+    width: 460px;
+}
+.container-fluid .navbar-header{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.container1{
+    width: 100%;
+    height: 156px;
+    margin-top: 65px;
+}
+.container1 img{
+    width: 100%;
+    height: 156px;
+}
+.row {
+    width: 470px;
+    margin-left: -105px;
+    padding-left: 85px;
+    margin-top: 95px;
+}
+.col-sm-6 h3 {
+    margin-top: 15px;
+    padding-top: 35px;
+}
+.row img{
+    width: 82%;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.row .tu4 {
+    margin-left: 0px;
+}
+.kj{
+    margin-top: 95px;
+}
+.kj .gz{
+	margin-left: 148px;
+    margin-top: -70px;
+}
+.kj ul li:hover{
+    color: skyblue;
+}
+#footer .container{
+	width: 300px;
+}
+/* 返回顶部 */
+.t-right-bar {
+    bottom: 12%;
+}
+.t-right-bar > div {
+    margin-bottom: 2px;
+}

@@ -1,0 +1,194 @@
+.container1{
+    width: 100%;
+    height: 446px;
+    overflow: hidden;
+}
+.container1 img{
+    width: 100%;
+    height: 446px;
+}
+/* 精品案例 */
+#portfolio {
+    background-color: rgb(248,249,2250);
+}
+form > section {
+    padding: 38px 0;
+}
+.container {
+    width: 80%;
+    max-width: 1260px;
+    min-width: 335px;
+    margin: 0 auto;
+}
+@media (min-width: 1200px){
+    .container {
+        width: 1170px;
+    }
+}
+@media (min-width: 992px){
+    .container {
+        width: 970px;
+    }
+}
+@media (min-width: 768px){
+    .container {
+    width: 750px;
+}
+.container {
+    width: 1200px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.center {
+    text-align: center;
+    padding-bottom: 55px;
+}
+.fadeInDown {
+    -webkit-animation-name: fadeInDown;
+    animation-name: fadeInDown;
+}
+.solution h6 {
+    margin: 45px 0 28px 0;
+    color: #0075C2;
+    font-size: 16px;
+}
+.solution h2 {
+    font-size: 36px;
+}
+.center h2 {
+    font-size: 36px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+/* 下面图 */
+@media (min-width: 1200px){
+    #portfolio .row {
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.portfolio-items, .portfolio-filter {
+    list-style: none outside none;
+    margin: -100px 0 40px 0;
+    padding: 0;
+}
+.portfolio-item {
+    margin: 10px 0;
+    /* padding: 0; */
+}
+@media (min-width: 992px){
+    .col-md-4 {
+        width: 33.33333333333333%;
+    }
+}
+/* 第一块 */
+.recent-work-wrap {
+    background-color: #fff;
+    padding: 20px;
+}
+.recent-work-wrap {
+    position: relative;
+}
+.recent-work-wrap .recent-work {
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+}
+.recent-work-wrap .recent-work a {
+    display: block;
+    width: 100%;
+}
+.recent-work-wrap img {
+    width: 100%;
+}
+/* 湖南项目 */
+.recent-work-wrap .names {
+    margin: 20px 0;
+    font-size: 14px;
+    color: #999;
+}
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.icon-rili:before {
+    content: "\e773";
+}
+.recent-work-wrap .names p {
+    font-size: 20px;
+    color: #333;
+    font-weight: 700;
+    line-height: 30px;
+}
+.row .portfolio-item:hover{
+    box-shadow:5px 5px 10px rgba(0,0,0,0.5);
+}
+
+/* 清除 */
+.clear {
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    clear: both;
+}
+/* 分页 */
+#wrap1 {
+    display: block;
+    padding-top: 20px;
+    text-align: center;
+}
+/* 上下按钮 */
+#pagination-next, #pagination-prev {
+    padding-right: 0.08rem;
+    padding-left: 0.08rem;
+}
+.pagination-disabled {
+    /* 禁用 */
+    cursor: not-allowed;
+}
+/* 中间按钮样式 */
+.pagination-btn {
+    padding: 0;
+    margin-right: 4px;
+    border-radius: 4px;
+    border: 1px solid #0075C2;
+    cursor: pointer;
+    color: #0075C2;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 44px;
+    height: 44px;
+    line-height: 40px;
+    text-align: center;
+}
+.pagination-current{
+    border:1px solid #ccc;
+    color:#999;
+}
+.pagination-wrap{
+    position:relative;
+    display: inline-block;
+    padding-left:0;
+}
+.pagenum{
+    overflow:hidden;
+    /* 文本不换行 */
+    white-space: nowrap;
+    /* 文本溢出用...代替 */
+    text-overflow: ellipsis;
+    /* 垂直对齐方式，middle 把此元素放置在父元素的中部 */
+    vertical-align: middle;
+}
+.kj{
+    margin-top: 95px;
+}

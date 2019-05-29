@@ -1,0 +1,100 @@
+.inner_c {
+    width: 450px;
+    margin: 0 auto;
+}
+.solution h6 {
+	margin: 20px 0 28px 0;
+}
+.col-sm-6 {
+    width: 460px;
+}
+.container-fluid .navbar-header{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.container1{
+    width: 100%;
+    height: 156px;
+}
+.container1 img{
+    width: 100%;
+    height: 156px;
+}
+.row {
+    width: 470px;
+    margin-left: -105px;
+    padding-left: 85px;
+    margin-top: 95px;
+}
+.col-sm-6 h3 {
+    margin-top: 15px;
+    padding-top: 35px;
+}
+/* 分页 */
+#wrap1 {
+    display: block;
+    padding-top: 20px;
+    text-align: center;
+}
+/* 上下按钮 */
+#pagination-next, #pagination-prev {
+    padding-right: 0.08rem;
+    padding-left: 0.08rem;
+}
+.pagination-disabled {
+    /* 禁用 */
+    cursor: not-allowed;
+}
+/* 中间按钮样式 */
+.pagination-btn {
+    padding: 0;
+    margin-right: 4px;
+    border-radius: 4px;
+    border: 1px solid #0075C2;
+    cursor: pointer;
+    color: #0075C2;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 44px;
+    height: 44px;
+    line-height: 40px;
+    text-align: center;
+}
+.pagination-current{
+    border:1px solid #ccc;
+    color:#999;
+}
+.pagination-wrap{
+    position:relative;
+    display: inline-block;
+    padding-left:0;
+}
+.pagenum{
+    overflow:hidden;
+    /* 文本不换行 */
+    white-space: nowrap;
+    /* 文本溢出用...代替 */
+    text-overflow: ellipsis;
+    /* 垂直对齐方式，middle 把此元素放置在父元素的中部 */
+    vertical-align: middle;
+}
+.kj{
+    margin-top: 95px;
+}
+.kj .gz{
+	margin-left: 148px;
+    margin-top: -70px;
+}
+.kj ul li:hover{
+    color: skyblue;
+}
+#footer .container{
+	width: 300px;
+}
+/* 返回顶部 */
+.t-right-bar {
+    bottom: 12%;
+}
+.t-right-bar > div {
+    margin-bottom: 2px;
+}
